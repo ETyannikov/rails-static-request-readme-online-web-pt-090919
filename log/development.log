@@ -751,3 +751,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 24.10.24.130 at 2020-01-24 01:37:51 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
